@@ -1,0 +1,12 @@
+Logging to /home/tml/server/tModLoader-Logs/Launch.log
+Fixing Environment Issues
+Success!
+Verifying .NET....
+Parsing .NET version requirements from runtimeconfig.json
+Success! dotnet_version=8.0.0
+Checking for old .NET versions to remove from folder
+Cleanup Complete
+Checking dotnet install...
+Dotnet should be present in "/home/tml/server/dotnet"
+Attempting Launch...
+Launched Using Local Dotnet. Launch command: "/home/tml/server/dotnet/dotnet" tModLoader.dll "-server -config /home/tml/.local/share/Terraria/tModLoader/serverconfig.txt -tmlsavedirectory /home/tml/.local/share/Terraria/tModLoader"

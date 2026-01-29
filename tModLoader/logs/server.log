@@ -1,0 +1,35 @@
+[23:53:32.853] [Main Thread/INFO] [tML]: Starting tModLoader server 1.4.4.9+2025.11.3.2|2025.11|stable|Stable|e8a3bd0adca92c98653df07e0aa0dc87cbbb889b|5250736681988021995 built 01/26/2026 23:19
+[23:53:32.858] [Main Thread/INFO] [tML]: Log date: 01/28/2026
+[23:53:32.858] [Main Thread/INFO] [tML]: Running on Linux (v6.12.58.0) X64 NetCore 8.0.0
+[23:53:32.860] [Main Thread/INFO] [tML]: CPU: 16 processors. RAM: 15.0 GB
+[23:53:32.860] [Main Thread/INFO] [tML]: FrameworkDescription: .NET 8.0.0
+[23:53:32.860] [Main Thread/INFO] [tML]: Executable: /home/tml/server/tModLoader.dll
+[23:53:32.860] [Main Thread/INFO] [tML]: Working Directory: /home/tml/server
+[23:53:32.861] [Main Thread/INFO] [tML]: Launch Parameters: -server -config /home/tml/.local/share/Terraria/tModLoader/serverconfig.txt -tmlsavedirectory /home/tml/.local/share/Terraria/tModLoader
+[23:53:32.863] [Main Thread/INFO] [tML]: Parsed Launch Parameters: -server -config /home/tml/.local/share/Terraria/tModLoader/serverconfig.txt -tmlsavedirectory /home/tml/.local/share/Terraria/tModLoader
+[23:53:33.045] [Main Thread/INFO] [tML]: Saves Are Located At: /home/tml/.local/share/Terraria/tModLoader
+[23:53:33.373] [Main Thread/INFO] [tML]: Distribution Platform: Steam. Detection method: Terraria.exe or Terraria_v1.4.4.9.exe not found nearby
+[23:53:33.446] [Main Thread/INFO] [tML]: Current 1281930 Workshop Folder Directory: steamapps/workshop
+[23:53:34.839] [Main Thread/DEBUG] [tML]: Network compatibility version is 2025.11.3
+[23:53:35.876] [Main Thread/INFO] [tML]: Finding Mods...
+[23:53:35.880] [Main Thread/WARN] [tML]: Did not find enabled.json file
+[23:53:35.882] [Main Thread/INFO] [tML]: Finding Mods...
+[23:53:35.894] [Main Thread/INFO] [tML]: Constructing Mods...
+[23:53:35.896] [Main Thread/INFO] [tML]: JITModsAsync completed in 0ms
+[23:53:35.899] [Main Thread/INFO] [tML]: Adding Content: ModLoader (tModLoader) v2025.11.3.2
+[23:53:35.951] [Main Thread/INFO] [tML]: Resizing...
+[23:53:36.022] [Main Thread/INFO] [tML]: Configuring Content: ModLoader (tModLoader) v2025.11.3.2
+[23:53:36.090] [Main Thread/INFO] [tML]: Finalizing Content: ModLoader (tModLoader) v2025.11.3.2
+[23:53:36.097] [Main Thread/INFO] [tML]: RAM physical: tModLoader usage: 378.2 MB, All processes usage: 381.8 MB, Available: 14.6 GB, Total Installed: 15.0 GB
+[23:53:36.097] [Main Thread/INFO] [tML]: RAM virtual: tModLoader usage: 373.5 MB, All processes usage: 374.3 MB
+[23:53:36.192] [Main Thread/DEBUG] [tML]: GlobalItem registration stats. Count: 1, Slots per Entity: 1
+	Instanced: 1, Conditional with slot: 0, Conditional by type: 0, Applies to single type: 0
+	List Permutations: 1, Est Memory Consumption: 16 bytes
+[23:53:36.215] [Main Thread/DEBUG] [tML]: GlobalNPC registration stats. Count: 2, Slots per Entity: 1
+	Instanced: 1, Conditional with slot: 0, Conditional by type: 0, Applies to single type: 0
+	List Permutations: 1, Est Memory Consumption: 16 bytes
+[23:53:36.223] [Main Thread/DEBUG] [tML]: GlobalProjectile registration stats. Count: 0, Slots per Entity: 0
+	Instanced: 0, Conditional with slot: 0, Conditional by type: 0, Applies to single type: 0
+	List Permutations: 0, Est Memory Consumption: 0 bytes
+[23:53:36.288] [Main Thread/INFO] [tML]: Adding Recipes...
+[23:53:36.438] [Main Thread/INFO] [tML]: Mod Load Completed in 558ms

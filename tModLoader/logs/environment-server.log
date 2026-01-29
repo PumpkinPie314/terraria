@@ -1,0 +1,13 @@
+dotnet_version=8.0.0
+OLDPWD=/home/tml/.local/share/Terraria/tModLoader/server/LaunchUtils
+PWD=/home/tml/server
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+FNA_WORKAROUND_WINDOW_RESIZABLE=1
+TERM=xterm
+LD_LIBRARY_PATH=/home/tml/server/Libraries/Native/Linux
+SHLVL=2
+HOME=/home/tml
+DOTNET_ROLL_FORWARD=Disable
+USER=tml
+HOSTNAME=4d7f780f8078
+dotnet_dir=/home/tml/server/dotnet
