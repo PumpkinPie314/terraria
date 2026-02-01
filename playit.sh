@@ -1,0 +1,1 @@
+nix run github:pedorich-n/playit-nixos-module#playit-cli -- start
